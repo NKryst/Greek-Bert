@@ -1,16 +1,25 @@
 # Sentiment-Analysis-Greek-Bert
- We'll use the Bert pre-trained models in Greek language. And we'll fine tuning while using data I was gathering since 1/6/2019 from Twitter :D
+ We'll use the Bert pre-trained models in Greek language. And we'll fine tune our model by using data I was gathering since 1/6/2019 from Twitter :D
  
 # Methodology
  We are going to use PyTorch as our Deep Learning library and CUDA for GPU programming (not very sure about that yet :P)
  
+# Language:
+## Python 3.8.3
+## Conda 4.9.0
+
 
 # Installing necessary packages
-pip install unicodedata
-pip install transfomers
-pip install torch
+## (The standard ones such as pandas , numpy , json , matplotlib)
+## pip install unicodedata
+## pip install transfomers
+## pip install torch (https://pytorch.org/get-started/locally/ it will suggest you a conda installation command more suitable for you!)
 
 # Bibliography:
-https://github.com/nlpaueb/greek-bert
-https://huggingface.co/
+## Books:
+### Python for Data Analysis (to understand how Python is used)
+### Deep Learning with PyTorch (having fun with examples and deepen your understanding)
+### Grokking Deep Learning (In order to acquire the mindset about Deep Learning overall)
+### https://github.com/nlpaueb/greek-bert
+### https://huggingface.co/
 
