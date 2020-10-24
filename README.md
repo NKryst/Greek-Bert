@@ -2,7 +2,7 @@
  We'll use the Bert pre-trained models in Greek language. And we'll fine tune our model by using data I was gathering since 1/6/2019 from Twitter :D
  
 # Methodology
- We are going to use PyTorch as our Deep Learning library and CUDA for GPU programming (not very sure about that yet :P)
+ We are going to use PyTorch as our Deep Learning library and _CUDA for GPU programming (not very sure about that yet :P)_
  
 # Language:
 ## Python 3.8.3
