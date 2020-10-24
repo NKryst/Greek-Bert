@@ -20,6 +20,7 @@
 ### Python for Data Analysis (to understand how Python is used)
 ### Deep Learning with PyTorch (having fun with examples and deepen your understanding)
 ### Grokking Deep Learning (In order to acquire the mindset about Deep Learning overall)
+## Repositories / URLs :
 ### https://github.com/nlpaueb/greek-bert
 ### https://huggingface.co/
 
