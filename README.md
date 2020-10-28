@@ -5,15 +5,15 @@
  We are going to use PyTorch as our Deep Learning library and _CUDA for GPU programming (not very sure about that yet :P)_
  
 # Language:
-## Python 3.8.3
-## Conda 4.9.0
+* Python 3.8.3
+* Conda 4.9.0
 
 
 # Installing necessary packages
-## (The standard ones such as pandas , numpy , json , matplotlib)
-## pip install unicodedata
-## pip install transfomers
-## pip install torch (https://pytorch.org/get-started/locally/ it will suggest you a conda installation command more suitable for you!)
+### (The standard ones such as pandas , numpy , json , matplotlib)
+### pip install unicodedata
+### pip install transfomers
+### pip install torch (https://pytorch.org/get-started/locally/ it will suggest you a conda installation command more suitable for you!)
 
 # Bibliography:
 ## Books:
@@ -22,5 +22,5 @@
 ### Grokking Deep Learning (In order to acquire the mindset about Deep Learning overall)
 ## Repositories / URLs :
 ### https://github.com/nlpaueb/greek-bert
-### https://huggingface.co/
+### https://huggingface.co/*
 
