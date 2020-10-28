@@ -5,8 +5,8 @@
  We are going to use PyTorch as our Deep Learning library and _CUDA for GPU programming (not very sure about that yet :P)_
  
 # Language:
-### Python 3.8.3
-### Conda 4.9.0
+### * Python 3.8.3
+### * Conda 4.9.0
 
 
 # Installing necessary packages
