@@ -7,7 +7,7 @@
 # Language:
 * Python 3.8.3
 * Conda 4.9.0
-* 
+* NVidia CUDA
 
 
 # Installing necessary packages
