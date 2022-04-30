@@ -1,4 +1,5 @@
 import numpy as np
+import os
 import json
 import re
 import tensorflow as tf
@@ -6,7 +7,7 @@ import random
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
-with open('/kaggle/input/chatbots-intent-recognition-dataset/Intent.json') as f:
+with open('intent.json') as f:
     intents = json.load(f)
 def preprocessing(line):
     line = re.sub(r'[^a-zA-z.?!\']', ' ', line)
@@ -117,3 +118,4 @@ while True:
     res, typ = response(input_)
     print('Bot: {} -- TYPE: {}'.format(res, typ))   
     print()
+
