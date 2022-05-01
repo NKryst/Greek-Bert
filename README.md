@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Greek-Bert
+# Greek-Bert
  We'll use the Bert pre-trained models in Greek language. And we'll fine tune our model by using data I was gathering since 1/6/2019 from Twitter :D
  
 # Methodology
