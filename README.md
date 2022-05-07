@@ -2,13 +2,28 @@
  We'll use the Bert pre-trained models in Greek language. And we'll fine tune our model by using data I was gathering since 1/6/2019 from Twitter :D
  
 # Methodology
- We are going to use PyTorch as our Deep Learning library and _CUDA for GPU programming_
- 
+ We are going to use PyTorch / TensorFlow as our Deep Learning library and _CUDA for GPU programming_
+
+ # Coursera Specializations useful for Deep Learning / NLP / Tensorflow 
+* Tensorflow Specialization - https://www.coursera.org/professional-certificates/tensorflow-in-practice
+* Natural Language Specialization - https://www.coursera.org/specializations/natural-language-processing
+* Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
+
+
+# Useful Articles per NLP Task
+## Intent recognition
+* Intent recognition with BERT - https://analyticsindiamag.com/how-to-implement-intent-recognition-with-bert/#:~:text=By%20Mudit%20Rustagi-,Intent%20Classification%2C%20or%20you%20may%20say%20Intent%20Recognition%20is%20the,a%20subdomain%20of%20Artificial%20Intelligence.
+* Simple Chatbot using Kaggle dataset of Intent Recognition - https://www.kaggle.com/code/aminianam/simple-chatbot
+
 # Language:
 * Python 3.8.3
 * Conda 4.9.0
 * NVidia CUDA
+# Tools: 
+* wget - https://builtvisible.com/download-your-website-with-wget/
 
+# Transformers guide : 
+### Hugging Face - https://huggingface.co/course/chapter1/3?fw=pt
 
 # Installing necessary packages
 ### (The standard ones such as pandas , numpy , json , matplotlib)
