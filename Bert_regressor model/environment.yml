@@ -1,0 +1,9 @@
+name: my_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch=1.8.1
+  - pandas=1.2.4
+  - transformers=4.5.1
+  - pip
